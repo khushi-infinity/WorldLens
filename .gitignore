@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# WorldLens runtime cache (real SerpApi captures, not source)
+/.cache/
